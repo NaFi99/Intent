@@ -1,0 +1,8 @@
+<resources>
+    <string name="move_act">move Activity</string>
+    <string name="move_data">Move With Data</string>
+    <string name="dial_number">Dial A Number</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="this_is_moveact">Ini Move Act</string>
+    <string name="app_name">app</string>
+</resources>
